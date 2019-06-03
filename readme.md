@@ -2,10 +2,6 @@
 
 # Divide and Conquer Sorts
 
-## Overview
-This lesson covers two sorting algorithms that use the "divide and conquer" method: merge sort and quick sort.
-
-
 ## Merge Sort
 
 ### Task 1: Implement a "Merge" Function
